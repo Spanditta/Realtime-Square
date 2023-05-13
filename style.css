@@ -1,0 +1,27 @@
+.heading{
+    font-size:23px ;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+.note{
+    font-size:15px;
+    color:white;
+}
+.footer{
+    position:fixed;
+    background-color:aquamarine;
+    color:darkmagenta;
+    text-align:center;
+    width: 100%;
+    bottom:0;
+}
+
+canvas{
+    border:3px solid black;
+}
+body{
+    background-image: url("https://img.freepik.com/free-vector/flat-design-geometric-shapes-background_23-2148366514.jpg?w=2000");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
